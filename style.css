@@ -13,16 +13,19 @@
   background-color: chartreuse;
   height: 100%;
   width: 100%;
+  margin: 5px;
 }
 .item3 {
   background-color: darkred;
   height: 100%;
   width: 100%;
+  margin-left: 5px;
 }
 .item4 {
   background-color: darkgreen;
   height: 100%;
   width: 100%;
+  margin: 5px;
 }
 .container1 {
   display: flex;
@@ -31,6 +34,7 @@
   flex-direction: column;
   height: 100%;
   width: 100%;
+  padding: 0.4rem;
 }
 .container2 {
   display: flex;
@@ -39,10 +43,12 @@
   flex-direction: column;
   height: 100%;
   width: 100%;
+  padding: 0.4rem;
 }
 .section-container {
   height: 100vh;
   justify-content: center;
   align-items: center;
   display: flex;
+  padding: 0.4rem;
 }
